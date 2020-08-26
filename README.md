@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... More Contant
 - 💬 Ask me about ... Anything What You Want
 - 📫 How to reach me: ... On My Instagramm ( https://www.instagram.com/ratnadeep_paulz/ )
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ... Anything as your thinking.
 - ⚡ Fun fact: ... I love Travelling but I am a coder. 
 
