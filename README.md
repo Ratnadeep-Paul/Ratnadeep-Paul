@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Anything as your thinking.
 - ⚡ Fun fact: ... I love Travelling but I am a coder. 
 
+<h2> When I Started Programming?? </h2>
+<p> Actually I started programming from 2017 But then I was Not serious about Coding or Programming.
+But now, I want to be a full time programmer. So, I am learning many Programming Languages. </p>
