@@ -9,7 +9,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... My Website ( https://techvives.com/ )
+
+<span>- 🔭 I’m currently working on ... My Website ( https://techvives.com/ ) </span>
 - 🌱 I’m currently learning ... Python Programming
 - 👯 I’m looking to collaborate on ... Wordpress Post Writing
 - 🤔 I’m looking for help with ... More Contant
