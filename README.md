@@ -41,12 +41,5 @@ And presently I have my own WordPress Website <a href="https://techvives.com" ta
 <h2>How Many Programming Languages I Know??</h2>
 <p> I started my coding journey from a few months. So, I don't learnt a lots of Language. At present, I know PHP, Python, HTML, CSS, JavaScript. And now i will start learning C++ </p>
 
-![Ratnadeep's GiitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnadeep-Paul&show_icons=true&theme=Algolia) ![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnadeep-Paul)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Ratnadeep's GiitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnadeep-Paul&show_icons=true&theme=algolia) ![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnadeep-Paul)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ratnadeep-Paul&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ratnadeep-Paul&repo=convoychat" />
-</a>
