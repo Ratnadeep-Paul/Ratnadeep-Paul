@@ -42,5 +42,6 @@ And presently I have my own WordPress Website <a href="https://techvives.com" ta
 <p> I started my coding journey from a few months. So, I don't learnt a lots of Language. At present, I know PHP, Python, HTML, CSS, JavaScript. And now i will start learning C++ </p>
  
 <h2>My GitHub  statistics</h2> 
+
 ![Ratnadeep's GiitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnadeep-Paul&show_icons=true&theme=algolia) ![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnadeep-Paul)
 
