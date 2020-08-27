@@ -1,9 +1,5 @@
-<h1>Who Am I??</h1>
-<p> I am Ratnadeep Paul. I live in Silchar, Assam, India.
-  I am a student and also a content creater. I born In 2002 14 July.
-  I belong from a middle class family. And I love coding from my childhood.
-  I am a Photographer, a blogger, a student and now I want to be a  Professional Programmer as well.
-</p>
+## Hey Guys!! I am Ratnadep Paul..
+Welcome To My Github Page.
 <!--
 **Ratnadeep-Paul/Ratnadeep-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
