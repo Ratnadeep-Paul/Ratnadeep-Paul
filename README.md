@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Anything as your thinking.
 - ⚡ Fun fact: ... I love Travelling but I am a coder. 
 
+<h1>Who Am I??</h1>
+<p> I am Ratnadeep Paul. I live in Silchar, Assam, India.
+  I am a student and also a content creater. I born In 2002 14 July.
+  I belong from a middle class family. And I love coding from my childhood.
+  I am a Photographer, a blogger, a student and now I want to be a  Professional Programmer as well.
+</p>
+
 <h2> When I Started Programming?? </h2>
 <p> Actually I started programming from 2017 But then I was Not serious about Coding or Programming.
 But now, I want to be a full time programmer. So, I am learning many Programming Languages. </p>
