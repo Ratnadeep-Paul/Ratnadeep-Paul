@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p> I am Ratnadeep Paul. I live in Silchar, Assam, India.
   I am a student and also a content creater. I born In 2002 14 July.
   I belong from a middle class family. And I love coding from my childhood.
-  I am a Photographer, a blogger, a student and now I want to be a  Professional Programmer as well.
+  I am a Photographer, a blogger, a student and now I want to be a  Professional Programmer as well. If want to talk to me, then Follow and Massage me on Instagram ( https://www.instagram.com/ratnadeep_paulz/ )
 </p>
 
 <h2> When I Started Programming?? </h2>
@@ -37,3 +37,6 @@ Then also I didn't know about Programming languages, How write programs, But in 
 I started to search how to make a computer program and websites, then I found a YouTube channel, From this channel, My coding Journey was started.
 I started learning HTML, CSS, JavaScript. From there I grab a basic knowledge of coding or Programming.. Now I completed the Website development Course.
 And presently I have my own WordPress Website <a href="https://techvives.com" targer="_blank">(TechVives.com)</a> with my custom CSS. And I am now learning Python and Data Science.</p>
+
+<h2>How Many Programming Languages I Know??</h2>
+<p> I started my coding journey from a few months. So, I don't learnt a lots of Language. At present, I know PHP, Python, HTML, CSS, JavaScript. And now i will start learning C++ </p>
