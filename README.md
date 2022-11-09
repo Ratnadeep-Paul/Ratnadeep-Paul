@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 <span>- 🔭 I’m currently working on ... My Website ( https://sharpwebtechnologies.com/ ) </span>
-- 🌱 I’m currently learning ... Java Programming
+- 🌱 I’m currently learning ... Flutter Native Application Development 
 - 👯 I’m looking to collaborate on ... Website Development Projects
 - 🤔 I’m looking for help with ... More Contant
 - 💬 Ask me about ... Anything What You Want
