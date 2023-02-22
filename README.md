@@ -6,12 +6,12 @@ Welcome To My Github Page.
 Here are some ideas to get you started:
 -->
 
-<span>- 🔭 I’m currently working on ... My Website ( https://sharpwebtechnologies.com/ ) </span>
-- 🌱 I’m currently learning ... Flutter Native Application Development 
-- 👯 I’m looking to collaborate on ... Website Development Projects
+<span>- 🔭 I’m currently working on ... School Data Management Application </span>
+- 🌱 I’m currently learning ... Advanced Flutter Native Application Development 
+- 👯 I’m looking to collaborate on ... Application Development Projects
 - 🤔 I’m looking for help with ... More Contant
 - 💬 Ask me about ... Anything What You Want
-- 📫 How to reach me: ... On My Instagramm ( https://www.instagram.com/ratnadeep_paulz/ )
+- 📫 How to reach me: ... On My Instagramm ( https://www.instagram.com/_ratnadeep_paul_/ )
 - 😄 Pronouns: ... Anything as your thinking.
 - ⚡ Fun fact: ... I love Travelling but I am a Programmer. 
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p> I am Ratnadeep Paul. I live in Silchar, Assam, India.
   I am a student and also a content creater. I born In 2002 14 July.
   I belong from a middle class family. And I love coding from my childhood.
-  I am a Photographer, a blogger, a student and now I am also in the to be a Professional Programmer as well. If want to talk to me, then Follow and Massage me on Instagram ( https://www.instagram.com/ratnadeep_paulz/ )
+  I am a Photographer, a blogger, a student and now I am also in the to be a Professional Programmer as well. If want to talk to me, then Follow and Massage me on Instagram ( https://www.instagram.com/_ratnadeep_paul_/ )
 </p>
 
 <h2> When I Started Programming?? </h2>
