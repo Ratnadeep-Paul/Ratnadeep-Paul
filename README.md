@@ -50,5 +50,5 @@ And presently I have my own company to develop websites and application for clie
  
 <h2>My GitHub statistics</h2> 
 
-![Ratnadeep's GiitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnadeep-Paul&show_icons=true&theme=algolia) ![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnadeep-Paul&langs_count=7&theme=gruvbox&layout=compact)
+![Ratnadeep's GiitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnadeep-Paul&show_icons=true&theme=algolia) ![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnadeep-Paul&langs_count=7&theme=algolia&layout=compact)
 
