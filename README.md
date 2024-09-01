@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Advanced Flutter Native Application Development 
 - 👯 I’m looking to collaborate on ... Application Development Projects
 - 🤔 I’m looking for help with ... More Contant
-- 💬 Ask me about ... Anything What You Want
+- 💬 Ask me about ... Anything You Want
 - 📫 How to reach me: ... On My Instagramm ( https://www.instagram.com/_ratnadeep_paul_/ )
-- 😄 Pronouns: ... Anything as your thinking.
 - ⚡ Fun fact: ... I love Travelling but I am a Programmer. 
 
 <h1>--All About Me--</h1>
@@ -49,7 +48,7 @@ And presently I have my own company to develop websites and application for clie
 
 
 <h2>How Many Programming Languages I Know??</h2>
-<p> I started my coding journey from a few years. So, I don't learnt a lots of Language. At present, I know PHP, Python, HTML, CSS, JavaScript, jQuery etc etc. And now I am working you Flutter (Dart)</p>
+<p> I started my coding journey from a few years. So, I don't learnt a lots of Language. At present, I know PHP, Python, HTML, CSS, JavaScript, jQuery, Java, Kotlin, C++, Dart, Flutter etc etc. And now I am writting in Flutter (Dart)</p>
  
 <h2>My GitHub statistics</h2> 
 
