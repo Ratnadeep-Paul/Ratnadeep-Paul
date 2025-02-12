@@ -68,7 +68,7 @@ I wrote a **.bat file** that, when executed, would **continuously open CMD windo
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & Hosting  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)   
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)  
 ![Hostinger](https://img.shields.io/badge/hostinger-%23FF5722.svg?style=flat&logo=hostinger&logoColor=white)  
 
